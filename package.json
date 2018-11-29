@@ -1,6 +1,6 @@
 {
-  "name": "nfc-pcsc",
-  "version": "0.6.2",
+  "name": "@martijnthe/nfc-pcsc",
+  "version": "0.6.3",
   "description": "Easy reading and writing NFC tags and cards",
   "keywords": [
     "arc122",
